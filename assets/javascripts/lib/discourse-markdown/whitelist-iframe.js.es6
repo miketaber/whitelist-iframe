@@ -8,3 +8,5 @@ whiteListIframe(/^(https?:)?\/\/discordapp\.com\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.facebook\.com\/plugins\/.+/i);
 whiteListIframe(/^(https?:)?\/\/chatroll\.com\/.+/i);
 whiteListIframe(/^(https?:)?\/\/www\.chatroll\.com\/embed\/.+/i);
+whiteListIframe(/^(https?:)?\/\/vimeo\.com\/.+/i);
+whiteListIframe(/^(https?:)?\/\/www\.vimeo\.com\/.+/i);
