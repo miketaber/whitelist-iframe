@@ -3,6 +3,8 @@ whitelist iframe
 
 An example Discourse plugin for whitelisting iframe urls
 
+**Note:** this plugin is broken for the most recent version of Discourse. You can now whitelist iframes sources through the Discourse admin settings page.
+
 Usage
 =====
 
